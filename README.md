@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # weatherly_final
+=======
+# weatherly_app
+>>>>>>> 144e2ba3ccb24b39ecae2eff35cbe9e71dd64d54
 
 A new Flutter project.
 
